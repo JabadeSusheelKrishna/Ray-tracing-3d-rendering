@@ -1,0 +1,14 @@
+Q1 :
+
+We cannot Do uniform hemispherical sampling and Cosine on Point and Directional Lights.
+in point light case, we cannot get a random ray that passes through the light. the probability
+is zero. we may get but the probability of getting is zero. Its not impossible. In case of Directional
+Lights, the light will be at infinity. So for a ray to grasp that light, it should travel in that direction
+only. and that has probability 0. It is also not impossible event but Chance of occurance is very rare.
+so its better not to do hemispherical sampling on Point light and Directional Lights.
+
+Q2 : 
+
+when the area light area gets decreased then it means only some part of the hemisphere can have rays
+that touches the area lights. in all the other cases rays donot intersect the area light at all. so we get
+black spots more. thats why the image looks more noisy.

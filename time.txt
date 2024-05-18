@@ -1,0 +1,84 @@
+Render Time: 883.450012 ms
+Saved PNG: /home/doraemon/Documents/Comp_Grap/Assignment-3/Final/Q1_spp1.png
+Render Time: 23500.462891 ms
+Saved PNG: /home/doraemon/Documents/Comp_Grap/Assignment-3/Final/Q1_spp32.png
+Render Time: 936.453432 ms
+Saved PNG: /home/doraemon/Documents/Comp_Grap/Assignment-3/Final/Q2_1.png
+Render Time: 950.553432 ms
+Saved PNG: /home/doraemon/Documents/Comp_Grap/Assignment-3/Final/Q2_2.png
+Render Time: 1036.434323 ms
+Saved PNG: /home/doraemon/Documents/Comp_Grap/Assignment-3/Final/Q2_3.png
+Render Time: 1536.499323 ms
+Saved PNG: /home/doraemon/Documents/Comp_Grap/Assignment-3/Final/Q2_4.png
+Render Time: 4946.275879 ms
+Saved PNG: /home/doraemon/Documents/Comp_Grap/Assignment-3/Final/Q3_big0_10.png
+Render Time: 5060.017090 ms
+Saved PNG: /home/doraemon/Documents/Comp_Grap/Assignment-3/Final/Q3_big1_10.png
+Render Time: 3797.672119 ms
+Saved PNG: /home/doraemon/Documents/Comp_Grap/Assignment-3/Final/Q3_big2_10.png
+Render Time: 5275.935059 ms
+Saved PNG: /home/doraemon/Documents/Comp_Grap/Assignment-3/Final/Q3_med0_10.png
+Render Time: 5296.189941 ms
+Saved PNG: /home/doraemon/Documents/Comp_Grap/Assignment-3/Final/Q3_med1_10.png
+Render Time: 3888.513916 ms
+Saved PNG: /home/doraemon/Documents/Comp_Grap/Assignment-3/Final/Q3_med2_10.png
+Render Time: 5177.070801 ms
+Saved PNG: /home/doraemon/Documents/Comp_Grap/Assignment-3/Final/Q3_small0_10.png
+Render Time: 5266.055176 ms
+Saved PNG: /home/doraemon/Documents/Comp_Grap/Assignment-3/Final/Q3_small1_10.png
+Render Time: 3794.215088 ms
+Saved PNG: /home/doraemon/Documents/Comp_Grap/Assignment-3/Final/Q3_small2_10.png
+Render Time: 16345.592773 ms
+Saved PNG: /home/doraemon/Documents/Comp_Grap/Assignment-3/Final/Q3_many0_10.png
+Render Time: 16321.213867 ms
+Saved PNG: /home/doraemon/Documents/Comp_Grap/Assignment-3/Final/Q3_many1_10.png
+Render Time: 16394.277344 ms
+Saved PNG: /home/doraemon/Documents/Comp_Grap/Assignment-3/Final/Q3_many2_10.png
+Render Time: 45010.164062 ms
+Saved PNG: /home/doraemon/Documents/Comp_Grap/Assignment-3/Final/Q3_big0_100.png
+Render Time: 45989.191406 ms
+Saved PNG: /home/doraemon/Documents/Comp_Grap/Assignment-3/Final/Q3_big1_100.png
+Render Time: 34308.480469 ms
+Saved PNG: /home/doraemon/Documents/Comp_Grap/Assignment-3/Final/Q3_big2_100.png
+Render Time: 47134.359375 ms
+Saved PNG: /home/doraemon/Documents/Comp_Grap/Assignment-3/Final/Q3_med0_100.png
+Render Time: 48096.097656 ms
+Saved PNG: /home/doraemon/Documents/Comp_Grap/Assignment-3/Final/Q3_med1_100.png
+Render Time: 35234.085938 ms
+Saved PNG: /home/doraemon/Documents/Comp_Grap/Assignment-3/Final/Q3_med2_100.png
+Render Time: 47406.945312 ms
+Saved PNG: /home/doraemon/Documents/Comp_Grap/Assignment-3/Final/Q3_small0_100.png
+Render Time: 47978.480469 ms
+Saved PNG: /home/doraemon/Documents/Comp_Grap/Assignment-3/Final/Q3_small1_100.png
+Render Time: 34362.535156 ms
+Saved PNG: /home/doraemon/Documents/Comp_Grap/Assignment-3/Final/Q3_small2_100.png
+Render Time: 156939.625000 ms
+Saved PNG: /home/doraemon/Documents/Comp_Grap/Assignment-3/Final/Q3_many0_100.png
+Render Time: 156762.390625 ms
+Saved PNG: /home/doraemon/Documents/Comp_Grap/Assignment-3/Final/Q3_many1_100.png
+Render Time: 156735.468750 ms
+Saved PNG: /home/doraemon/Documents/Comp_Grap/Assignment-3/Final/Q3_many2_100.png
+Render Time: 442473.250000 ms
+Saved PNG: /home/doraemon/Documents/Comp_Grap/Assignment-3/Final/Q3_big0_1000.png
+Render Time: 453227.500000 ms
+Saved PNG: /home/doraemon/Documents/Comp_Grap/Assignment-3/Final/Q3_big1_1000.png
+Render Time: 339327.593750 ms
+Saved PNG: /home/doraemon/Documents/Comp_Grap/Assignment-3/Final/Q3_big2_1000.png
+Render Time: 463301.937500 ms
+Saved PNG: /home/doraemon/Documents/Comp_Grap/Assignment-3/Final/Q3_med0_1000.png
+Render Time: 473416.968750 ms
+Saved PNG: /home/doraemon/Documents/Comp_Grap/Assignment-3/Final/Q3_med1_1000.png
+Render Time: 348581.250000 ms
+Saved PNG: /home/doraemon/Documents/Comp_Grap/Assignment-3/Final/Q3_med2_1000.png
+Render Time: 471588.312500 ms
+Saved PNG: /home/doraemon/Documents/Comp_Grap/Assignment-3/Final/Q3_small0_1000.png
+Render Time: 502377.906250 ms
+Saved PNG: /home/doraemon/Documents/Comp_Grap/Assignment-3/Final/Q3_small1_1000.png
+Render Time: 344677.375000 ms
+Saved PNG: /home/doraemon/Documents/Comp_Grap/Assignment-3/Final/Q3_small2_1000.png
+Render Time: 1601654.250000 ms
+Saved PNG: /home/doraemon/Documents/Comp_Grap/Assignment-3/Final/Q3_many0_1000.png
+Render Time: 1567718.625000 ms
+Saved PNG: /home/doraemon/Documents/Comp_Grap/Assignment-3/Final/Q3_many1_1000.png
+Render Time: 1564729.250000 ms
+Saved PNG: /home/doraemon/Documents/Comp_Grap/Assignment-3/Final/Q3_many2_1000.png
